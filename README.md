@@ -1,3 +1,3 @@
 # data
 data analysis
-it's all aout data 
+it's all about learning data analysis 
